@@ -6,6 +6,4 @@ In this simple example a SNe light curve is first simulated using the Bazin mode
 
 The [NumPyro](https://num.pyro.ai/en/stable/index.html) library is used to perform inference and the HoloViews library is used for visualizations.
 
-See a rendered version of the notebook at: 
-
-    https://phuijse.github.io/bayesian_bazin/
+See a rendered version of the notebook at: https://phuijse.github.io/bayesian_bazin/
